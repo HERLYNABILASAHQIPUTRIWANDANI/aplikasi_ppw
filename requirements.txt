@@ -1,7 +1,7 @@
 streamlit
 requests
 beautifulsoup4
-Sastrawi
-gensim
+Sastrawi==1.0.1
+gensim==4.4.0
 scikit-learn==1.6.1
-numpy
+numpy==2.1.3
